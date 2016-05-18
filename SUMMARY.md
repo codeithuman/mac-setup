@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [OS X](chapter1.md)
+* [System Preferences](chapter1.md)
 
