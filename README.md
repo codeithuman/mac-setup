@@ -1,3 +1,3 @@
-# My Awesome Book
+# Mac OS X Setup Guide
 
-This file file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book are my instructions for myself to get Mac OS X up running.
