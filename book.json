@@ -1,1 +1,24 @@
-{}
+{
+
+    "title": "Mac OS X Setup Guide ",
+
+    "links": {
+        "home": "https://twitter.com/ajrob27/",
+        "about": "https://twitter.com/ajrob27",
+        "issues": null,
+        "contribute": null
+    },
+
+    "pdf": {
+        "toc": true,
+        "pageNumbers": false,
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 36,
+            "bottom": 36
+        }
+    }
+}
