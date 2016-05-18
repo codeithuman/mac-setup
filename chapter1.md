@@ -44,4 +44,17 @@ These are my preferred dock settings. Feel free to use your own.
 
 Navigate to **Apple Icon > System Preferences > Dock**.
 
-* 
+- Dock size, close to "small"
+- Deselect "Magnification"
+- Position on screen: "bottom"
+- Select "Automatically hide and show the Dock" along with other 3 options already selected by default
+
+
+## Power Settings
+
+Navigate to **Apple Icon > System Preferences > Engery Saver**.
+
+- Select "Automatic graphics switching"
+- Computer Sleep - Battery: 15 minutes, Power Adapter: Never
+- Display Sleep - Battery: 2 minutes, Power Adapter: 10 minutes
+- Leave other check boxes as default
