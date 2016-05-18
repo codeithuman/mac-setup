@@ -1,11 +1,11 @@
 # System Preferences
 
-- [ ] **OS X** updates
-- [ ] **Finder**
-- [ ] **Dock**
-- [ ] **Menu bar**
-- [ ] **Spotlight**
-- [ ] Accounts
+- **OS X** updates
+- **Finder**
+- **Dock**
+- **Menu bar**
+- **Spotlight**
+- Accounts
 
 
 ## Update OS X
