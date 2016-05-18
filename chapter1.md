@@ -31,7 +31,12 @@ defaults write com.apple.finder AppleShowAllFiles NO; killall Finder;
 
 #### Default Finder Window
 
-
+Under **Finder > Preferences**:
+- **General** > Show these items on desktop: Check only "Hard disks" and "External disks"
+- **General** > New Finder window show: Select your user name
+- **Tags**: Deselect all tags
+- **Sidebar** > Only Select: "Applications", "Desktop", "Documents", "Downloads", "Pictures", "Username", "Connected servers", "Username's MacBook Pro", "Hard disks", and "External disks"
+- **Advanced**: Check all 3 boxes and select "Search This Mac" from the drop down
 
 ## Dock
 
