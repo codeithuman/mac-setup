@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [System Preferences](chapter1.md)
-* Applications
+* [Applications](applications.md)
 
